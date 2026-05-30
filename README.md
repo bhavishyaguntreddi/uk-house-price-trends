@@ -14,11 +14,11 @@ End-to-end data workflow analysing UK House Price Index data (HM Land Registry) 
 
 ### Power BI — National & Regional Trends
 
-![Power BI Dashboard](dashboard/dashboard.jpeg)
+![Power BI Dashboard](dashboards/dashboard.jpeg)
 
 ### Tableau — Regional Affordability
 
-![Tableau Dashboard](dashboard/tableau.jpeg)
+![Tableau Dashboard](dashboards/tableau.jpeg)
 
 Live Tableau dashboard: https://public.tableau.com/app/profile/bhavishya.guntreddi/viz/UKRegionalAffordability/UKRegionalAffordability
 
